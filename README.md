@@ -8,7 +8,7 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://www.opera.com/pt/gx)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJHenrique7&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJHenrique7&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia 👨‍💻
 
